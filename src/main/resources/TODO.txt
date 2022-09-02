@@ -1,0 +1,8 @@
+Integrate with Spring Security
+In Memory Auth
+Mongo DB Auth
+Modify code to catch the authenticated user on SocketConnect event
+Maintain the list of users
+Show the list of Users,
+Personalised messages, send message request, recepient agrees on request, communicate privately.
+Admin to be able to send broadcast message
